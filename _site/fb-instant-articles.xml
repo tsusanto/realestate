@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>http://localhost:4000</link>
+    <description>
+      A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+    </description>
+    
+        
+            <item>
+                <title>Failure rate of real estate agents</title>
+                <link>http://localhost:4000/failure-rate-of-real-estate-agents/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>You will hear this many times, most real estate agents do not make it past the first 2 years. Estimates range as high as 90% failure rate within the first two years.</p>
+
+<p>It is hard to exactly prove how many real estate licensees give up after the first 2 years, but looking at the data published by CA DRE, I can extrapolate some facts by looking at the number of new licenses issued in 2015, and seeing how many of those people who got their licenses in 2015 still have a valid and active licensees in the year 2021.</p>
+
+<p>Why did I pick 2015’s data? That’s because in California, real estate licenses are valid for 4 years, and they are given a grace period of 2 years to renew it. If they were still actively participating in the industry, they would have renewed their licenses by now.</p>
+
+<p>From DRE’s website, they issued 25,210 new salesperson and broker licenses for the entire year of 2015. In February 2021, more than 5 years later, there were only 11,042 people who got their licenses in 2015 with a still valid license and attached to a brokerage (salesperson licensees have to hang their licenses with a brokerage in order to do any business).</p>
+
+<p>That means only 43% of the agents who took up their new license in 2015 remained in business in 2021.  In other words, 57% of the people who worked so hard to pass their exam, simply gave up. Of the people remaining, I have yet to find enough data to determine how many of them are actually making a living wage. If you have any ideas where I can find data, let me know!</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/failure-rate-of-real-estate-agents/</guid>
+                <description>
+                    
+                    Only 43% of real estate licensees still hold a valid license after 5 years
+                    
+                </description>
+                <pubDate>Mon, 15 Feb 2021 03:21:29 -0800</pubDate>
+                <author>X</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>How many real estate agents are there in California?</title>
+                <link>http://localhost:4000/how-many-real-estate-licensess-in-california/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>As of February 2021, there are 416,721 people who possess a valid Real Estate Salesperson or Brokers license. There are 39.3 million people in the state of California, which means 1 out of every 100 people in California holds a valid real estate license.</p>
+
+<p>I find it mind boggling that there are more real estate licensees than credentialed school teachers (320K) in California.</p>
+
+<p>As you can imagine, there are a lot of competition out there for a real estate agent. Based on the data in the table below, Orange County is a pretty competitive area to be an agent, as 1.75% of the total population hold a valid real estate license. Fresno County seems to be less competitive, with agents representing only 0.5% of the total population.</p>
+<h3 id="real-estate-licensees-by-counties-in-california-feb-2021">Real Estate Licensees by Counties in California (Feb 2021)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>County</th>
+      <th># of Licensees</th>
+      <th>% of Total Population in County</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LOS ANGELES</td>
+      <td>111856</td>
+      <td>1.11%</td>
+    </tr>
+    <tr>
+      <td>ORANGE</td>
+      <td>55288</td>
+      <td>1.75%</td>
+    </tr>
+    <tr>
+      <td>SAN DIEGO</td>
+      <td>40892</td>
+      <td>1.23%</td>
+    </tr>
+    <tr>
+      <td>RIVERSIDE</td>
+      <td>26456</td>
+      <td>1.10%</td>
+    </tr>
+    <tr>
+      <td>SANTA CLARA</td>
+      <td>18786</td>
+      <td>0.97%</td>
+    </tr>
+    <tr>
+      <td>SAN BERNARDINO</td>
+      <td>17297</td>
+      <td>0.80%</td>
+    </tr>
+    <tr>
+      <td>SACRAMENTO</td>
+      <td>13932</td>
+      <td>0.91%</td>
+    </tr>
+    <tr>
+      <td>ALAMEDA</td>
+      <td>13476</td>
+      <td>0.81%</td>
+    </tr>
+    <tr>
+      <td>CONTRA COSTA</td>
+      <td>12940</td>
+      <td>1.13%</td>
+    </tr>
+    <tr>
+      <td>VENTURA</td>
+      <td>9529</td>
+      <td>1.12%</td>
+    </tr>
+    <tr>
+      <td>SAN FRANCISCO</td>
+      <td>8100</td>
+      <td>0.93%</td>
+    </tr>
+    <tr>
+      <td>SAN MATEO</td>
+      <td>7958</td>
+      <td>1.04%</td>
+    </tr>
+    <tr>
+      <td>PLACER</td>
+      <td>7340</td>
+      <td>1.90%</td>
+    </tr>
+    <tr>
+      <td>FRESNO</td>
+      <td>5762</td>
+      <td>0.59%</td>
+    </tr>
+    <tr>
+      <td>SAN JOAQUIN</td>
+      <td>4824</td>
+      <td>0.65%</td>
+    </tr>
+    <tr>
+      <td>SONOMA</td>
+      <td>4711</td>
+      <td>0.94%</td>
+    </tr>
+    <tr>
+      <td>KERN</td>
+      <td>4274</td>
+      <td>0.48%</td>
+    </tr>
+    <tr>
+      <td>MARIN</td>
+      <td>3874</td>
+      <td>1.49%</td>
+    </tr>
+    <tr>
+      <td>SANTA BARBARA</td>
+      <td>3719</td>
+      <td>0.84%</td>
+    </tr>
+    <tr>
+      <td>SAN LUIS OBISPO</td>
+      <td>3466</td>
+      <td>1.23%</td>
+    </tr>
+    <tr>
+      <td>STANISLAUS</td>
+      <td>3458</td>
+      <td>0.64%</td>
+    </tr>
+    <tr>
+      <td>SOLANO</td>
+      <td>3268</td>
+      <td>0.74%</td>
+    </tr>
+    <tr>
+      <td>EL DORADO</td>
+      <td>2885</td>
+      <td>1.53%</td>
+    </tr>
+    <tr>
+      <td>MONTEREY</td>
+      <td>2679</td>
+      <td>0.62%</td>
+    </tr>
+    <tr>
+      <td>SANTA CRUZ</td>
+      <td>2485</td>
+      <td>0.91%</td>
+    </tr>
+  </tbody>
+</table>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/how-many-real-estate-licensess-in-california/</guid>
+                <description>
+                    
+                    1 out of every 100 people in California has a real estate license
+                    
+                </description>
+                <pubDate>Sun, 14 Feb 2021 03:21:29 -0800</pubDate>
+                <author>X</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Free Study cheat sheet for CA real estate license exam Part 1</title>
+                <link>http://localhost:4000/study-cheatsheet-for-california-real-estate-exam-Part-1/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <h2 id="make-sure-you-know-all-these-terms">Make sure you know all these terms!</h2>
+
+<p>This is my personal study cheat sheet, and now that I’ve taken and passed the exam, I would say I did pretty well in creating study guide.</p>
+
+<h2 id="key-topics">Key topics:</h2>
+
+<p>1) What activities requires a Real Estate Licensee? Without a license, you cannot legally receive compensation for the following:</p>
+<ul>
+  <li>Commercial and Residential real estate listings</li>
+  <li>Business Broker listings(one who assists in purchase and selling of business opportunity)</li>
+  <li>Mobilehome listings, but only if it has been registered with Department of Housing and Community Development</li>
+  <li>Prepaid rental listings</li>
+  <li>Mortgage loan activities, but must also have a MLO endorsement to receive compensation</li>
+</ul>
+
+<p>2) Can a real estate licensee get referral fees for residential mortgage loans?</p>
+<ul>
+  <li>No, it violates RESPA rules. To receive compensation for residential mortgage loans, you must perform active loan originating services, and cannot legally get compensation for plain referral fees.</li>
+</ul>
+
+<p>3) Exemptions from License requirements:</p>
+<ul>
+  <li>Owner of property, can buy/sell/lease</li>
+  <li>Resident manager of apartments (one who lives on-site)</li>
+  <li>Employee of a licensed property manager can show units, accept rental applications without a license</li>
+  <li>Short term (&lt;30 days) rental agents</li>
+  <li>employees of CFL lenders</li>
+</ul>
+
+<p>4) What can Unlicensed Assistants do or not do?</p>
+<ul>
+  <li>Here is the <a href="https://www.dre.ca.gov/files/pdf/guide_unlic_asst.pdf" target="_blank">best source of information from CA DRE</a></li>
+  <li>To summarize, an unlicensed assistant cannot communicate directly to the public other than handing out material that has been reviewed and approved by the broker</li>
+  <li>While unlicensed assistants can be present at an open house, they are only allowed to hand out marketing materials, greet the public, set up appointments with the licensee. They cannot conduct property tours, or discuss anything to do with the house price, features, neighborhood etc.</li>
+  <li>They can create marketing material, do research like comparative market analysis, but the final output has to be reviewed and approved by the licensee</li>
+</ul>
+
+<p>5) Consumer Recovery Account</p>
+<ul>
+  <li>When a person involved in a real estate transaction suffers monetary losses caused by a Real Estate Licensee, he or she can file and obtain payment from the <a href="https://www.dre.ca.gov/Consumers/ConsumerRecoveryAccount.html" target="_blank">Consumer Recovery Account</a></li>
+  <li>Maximum of $50,000 per transaction, maximum payout of $250,000 per licensee</li>
+  <li>If payment is made, license is revoked until he or she has repaid the amount plus 10% interest</li>
+  <li>Since 1964, the Department has paid more than $65,000,000 (&gt;4000 cases) to members of the public from the Consumer Recovery Account!</li>
+</ul>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/study-cheatsheet-for-california-real-estate-exam-Part-1/</guid>
+                <description>
+                    
+                    My personal curated study cheat sheet for CA real estate exam
+                    
+                </description>
+                <pubDate>Sat, 13 Feb 2021 03:21:29 -0800</pubDate>
+                <author>X</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>My experience taking the CA DRE Real Estate exam</title>
+                <link>http://localhost:4000/my-experience-taking-the-real-estate-exam/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <h3 id="scheduling-the-exam">Scheduling the exam</h3>
+
+<p>Keep in mind that I took the real estate license exam during covid times, which is not usual and hopefully by the time you read this article, things will be back to normal.</p>
+
+<p>I finally got an exam spot in Sacramento for Feb 2021. The testing centers in California have been closed for the last few months. The 20 spots (only 50% of allowed capacity due to Covid) filled up quickly.</p>
+
+<p>There are 2 time slots for the exam, 8.45 am and 12.45 pm. For the salesperson license exam, the test is 3 hours long and you have to answer 150 questions and answer 105 questions correctly (70%). For the brokers license exam, the test is 4 hours long and you have to answer 200 questions and answer at least 150 questions correctly (75%).</p>
+
+<p>There is a $20 rescheduling fee if you change your mind.</p>
+
+<h3 id="day-of-the-exam">Day of the exam</h3>
+
+<p>Since it’s a 2.5 hours drive for me to Sacramento, I picked the day that offered the 12.45 pm exam. I ate a healthy big breakfast and packed lunch. I downloaded all the audio files from Prepagent and listened to it the whole time I was driving to Sacramento.</p>
+
+<p>I arrived at 11.30 pm, went through more questions and answers on my phone. Even though the official exam time is at 12.45 pm, they allow you to register at the counter as early as 12.15 pm, and once you are registered, you can take start taking the test.</p>
+
+<p>I gobbled down my lunch, drank a lot of water about half hour before going in so I can use the bathroom before taking the exam. I do not recommend taking breaks during the exam, but they do allow you to.</p>
+
+<p>When you register at the counter for the exam, they ask you to take everything out of your pockets and put it in the locker they provide. The only thing I was allowed to bring in was my driver’s license and locker key and the reading glasses and mask I was wearing. They even asked me to show them the inside of my mask to make sure I didn’t  write any notes inside my mask, ha!</p>
+
+<h3 id="california-real-estate-exam-format-and-my-exam-taking-strategy">California Real Estate Exam format and my exam taking strategy</h3>
+
+<p>You then walk into the exam room to your assigned desk number. There will be one DRE employee supervising (no cheating!). The monitor is placed facing upwards through a glass desk. You are given a mouse, whiteboard, sharpie, and one calculator.</p>
+
+<p>Because the monitor is beneath the desk, nobody can see your monitor and vice versa. But that means you would be spending hours looking down, so make sure to stretch your neck and look up every now and then.</p>
+
+<p>There is zero math questions in my exam. I went through the questions in order, and if I wasn’t confident of my answer and want to go back to it, I picked an answer anyway but wrote down the question number on my whiteboard.</p>
+
+<p>After answering every question, I then went back back to the questions in order as written on my whiteboard. I had about 65 questions to go through again. I did this two more times, eliminating questions from my whiteboard when I felt I did the best I could. At the end, I only have about 28 questions that I did not feel confident about, even if I got all the 28 questions wrong, it’s still a pass.</p>
+
+<p>For the questions I was unsure, I first eliminated the obvious wrong ones. Usually you can get it down to just 2 choices, giving you a 50% chance in answering it right. Sometimes you get a clue from other questions in the exam what the wrong answers are as similar questions come up in the exam and the answer choices of other questions might help you.</p>
+
+<p>There is plenty of time given for the exam so time will not be an issue.</p>
+
+<h3 id="time-to-get-your-results">Time to get your results</h3>
+
+<p>I had 20 minutes left to spare on the clock, one of the last 4 people left, everybody left much earlier. Ignore the people who leave way early, assume they gave up and not because the exam was too easy for them.</p>
+
+<p>I clicked on the “End Exam” button on the screen. When I went to the counter, they asked for my ID again and immediately printed out the results and stapled up the paper and told me not to open it until I got out of the building.</p>
+
+<p>As soon as I got out I tore the paper open and it says “Congratulations! You passed …”. They will not give you your actual score, just either pass or fail.</p>
+
+<p>My record in DRE elicensing was already updated by the time I drove back home, and there’s now a new button for me to click to download the forms to apply for my license!</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/my-experience-taking-the-real-estate-exam/</guid>
+                <description>
+                    
+                    Detailed description of my experience taking the CA DRE Real Estate exam in Feb 2021.
+                    
+                </description>
+                <pubDate>Fri, 12 Feb 2021 03:21:29 -0800</pubDate>
+                <author>X</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>How long does it take and costs to get a real estate license in California?</title>
+                <link>http://localhost:4000/how-long-does-it-take-to-get-a-real-estate-license/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <h3 id="short-summary">Short Summary</h3>
+
+<p>From start to finish, it would take about 5 months and cost about $600 to get your Salesperson DRE License in California.</p>
+
+<p>While the following steps are for California examinees, the timeline and cost would be quite similar in other states.</p>
+
+<h3 id="step-1---complete-3-required-prelicensing-courses---8---10-weeks-150---200">Step 1 - Complete 3 required prelicensing courses - 8 - 10 weeks, $150 - $200</h3>
+<p>You need to take 3 required prelicensing courses, they are 45 hours each. I would highly recommend you take it online, which is usually study at your own pace on demand videos.</p>
+
+<p>At the end of each course, you will be given an open book exam, comprising of 100 multiple choice questions, and you need to get at least a score of 60%.</p>
+
+<p>In California you are required to spend a minimum of 18 days on each course, so that’s at least 56 days for all three courses. That amounts to about 3 hours of classes per day. You have one year to complete the course from your enrollment date.</p>
+
+<p>There are many online prelicensing course providers, my personal favorite is Prepagent, because their videos are fun, the material is dry, but they spice it up with a lot of humor and fun acronyms to help you remember the terms.</p>
+
+<p>With prepagent, their real estate prelicensing course with exam prep package retails for $200. I highly recommend purchasing this combination as being able to do hundreds of practice questions from their exam prep was what helped me pass the exam on my first try.</p>
+
+<p>I had previously signed up with another provider and their presentation was so boring it often put me to sleep. Luckily they had a money back guarantee so I asked for a refund and switched to Prepagent.</p>
+
+<h3 id="step-2---send-in-your-salesperson-exam-application-re400a---6-to-8-weeks-60">Step 2 - Send in your Salesperson exam application (RE400A) - 6 to 8 weeks, $60</h3>
+
+<p>It takes about 6 - 8 weeks for California Department of Real Estate (DRE) to process your exam application and verify that you have completed your required prelicensing courses. DRE provides the current processing time on their <a href="https://www.dre.ca.gov/Licensees/CurrentTimeframes.html" target="_blank">website</a></p>
+
+<p>You need to send in $60 along with the exam application form <a href="https://www.dre.ca.gov/files/pdf/forms/re400a.pdf" target="_blank">(RE400A)</a>. When they approve your application, you will then receive an email inviting you to sign up for an account at their DRE eLicensing system, which is where you would schedule your examination.</p>
+
+<p>You can also apply for a combined license and exam application, but the license application fee of $245 is not refundable should you not pass your exam within 2 years.</p>
+
+<h3 id="step-3---study-for-the-examination---2---6-weeks-0---100">Step 3 - Study for the examination - 2 - 6 weeks, $0 - $100</h3>
+
+<p>As soon as you send in your Salesperson exam application, you can start preparing for your exam. Do not wait until you hear back from DRE before you start studying because that might take weeks.</p>
+
+<p>If you have completed your prelicensing courses but now need to study for the exam, I highly recommend purchasing an exam prep course where you can take thousands of practice questions.</p>
+
+<p>Prepagent sells the exam prep separately for $100. Discount here if you use this link.</p>
+
+<p>If it weren’t for the practice questions, I would not have passed my exam on my first try. From where I live, the driving time roundtrip to Sacramento and test taking time took me almost 8 hours, and I would have been so upset if I failed the test the first time and have to drive back to take it again. The $80 I spent for Prepagent’s exam prep course was very very well spent for me and I am grateful for it.</p>
+
+<p>I would recommend spending 1 - 2 hours everyday studying. Each day, on Prepagent, I would aim to answer at least 100 questions (on their website, you can generate any number of questions for each test). 
+As you do the questions, you will see over time that similar topics keep popping up. I cannot emphasize it enough how important it is to answer as many questions as you can. Then study the vocabulary sheet. Prepagent has great (and sometimes funny) videos that focus solely on real estate vocabularies. This would help you in at least answering half the exam questions.
+And don’t just memorize the answers. I found that it helped me remember things when I research it online why that answer is correct. When you consistenly score 75% on the simulated tests, it is time to schedule the exam. Usually there should be spots available for the next week, pick one that is about 1 week away.</p>
+
+<p>Prepagent also has short 2-3 minute lessons audio files which you can download to your phone, and play them in the car while you are driving.</p>
+
+<p>I honestly did have a lot of fun attending their live webinars on vocabularies, especially when it’s hosted by Joe Juter, Prepagent’s cofounder. He cracks me up. And I found it fun to give answers through the online chat (they do youtube live streaming for their webinars).</p>
+
+<p>I took 4 weeks total to study for the exam. The first 3 weeks was at a more relaxed pace at about an hour or two per day. Then I scheduled the exam which was for a week later, during which I studied intensively by answering 200 questions everyday for that week.</p>
+
+<p>Read my article on what to expect for the actual DRE Salesperson exam and my own experience taking it in Sacramento.</p>
+
+<h3 id="step-4---apply-for-the-license---2---4-weeks-330">Step 4 - Apply for the license - 2 - 4 weeks, $330</h3>
+
+<p>Assuming you passed your exam on your first try, it would then take another 2 - 4 weeks for DRE to issue you your license after you mail in your license application form (I do not understand why they don’t allow online applications).</p>
+
+<p>Before you send in your application, you need to get your fingerprints taken. Login to your elicensing account, and all the required forms you need will be in your account for you to print, including the Livescan fingerprint forms.</p>
+
+<p><a href="https://oag.ca.gov/fingerprints/locations">Here</a> is a list of all the Livescan providers in California. The Livescan provider will collect from you $49, which goes to Depart of Justice, and however much service fee they charge, which usually runs about $30. Make sure to bring 2 copies of the Livescan form to your livescan provider. They will fill out both forms and return you one of the completed form.</p>
+
+<p>Send in your license application form, completed livescan form along with $245 to DRE. You should hear back from them in about 2 - 4 weeks.</p>
+
+<h3 id="step-5---give-yourself-a-pat-on-the-back">Step 5 - Give yourself a pat on the back</h3>
+
+<p>While it isn’t too hard, it isn’t entirely easy either to get a real estate license. So give yourself a pat on the back for having come so far.</p>
+
+<p>What you choose to do with the license though, is entirely up to you. Here are some ideas what you can do with your newly minted real estate license.</p>
+
+<hr />
+<p>To do</p>
+<ul>
+  <li>reviews on course providers</li>
+  <li>my experience on taking the exam</li>
+  <li>What you can do with your real estate license</li>
+  <li>study guide</li>
+  <li>sample questions</li>
+  <li>important vocabularies</li>
+  <li>analyze DRE stats (https://www.dre.ca.gov/Licensees/ExamineeLicenseeListDataFiles.html, Current List of all licensees)</li>
+</ul>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/how-long-does-it-take-to-get-a-real-estate-license/</guid>
+                <description>
+                    
+                    It takes about 5 months to get your real estate license and costs about $600
+                    
+                </description>
+                <pubDate>Tue, 11 Feb 2020 19:22:00 -0800</pubDate>
+                <author>X</author>
+            </item>
+        
+    
+  </channel>
+</rss>
